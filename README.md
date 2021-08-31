@@ -1,3 +1,2 @@
-# Css-Odev-Google-Homepage
-*Bu projede kullanılan elementlerin çoğunu açıklama satırları ile açıklayarak inceleyenlerin daha kolay anlayabilmelerini amaçladım.*
+# CSS Google Ödevi
 ![homepage](assets/github.jpg)
